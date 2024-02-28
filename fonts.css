@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Neue Machina";
+    src: url(./fonts/NeueMachina-Regular.otf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Neue Machina";
+    src: url(./fonts/NeueMachina-Ultrabold.otf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "Neue Machina";
+    src: url(./fonts/NeueMachina-Light.otf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Body Grotesque Fit";
+    src: url(./fonts/body-grotesque-fit-regular.ttf);
+    font-weight: normal;
+}

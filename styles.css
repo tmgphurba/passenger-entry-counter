@@ -1,0 +1,65 @@
+@import url(fonts.css);
+
+body {
+    
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFAE6;
+    color: #fff;
+    font-family: "Neue Machina";
+    font-weight: 300;
+    text-align: center;
+}
+
+.container {
+    border-radius: 20px;
+    padding: 100px;
+    background-color: #27593F;
+}
+
+.data {
+    margin-top: 30px;
+}
+
+h1 {
+    font-weight: 800;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 12px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-family: "Body Grotesque Fit";
+}
+
+#save {
+    color: #fff;
+    background-color: #126A38;
+    margin-left: 10px;
+}
+
+#increase {
+    color: #fff;
+    background-color: #356596;
+    margin-right: 10px;
+}
+
+#bus-img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+}
